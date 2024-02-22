@@ -9,6 +9,9 @@ I've built this project to simulate the different dice used in Dungeons and Drag
 video demo of the project testing:
 
 https://drive.google.com/file/d/15YuinHYHvR7vAMuHSF5Ux2lF2Rc1AYoT/view?usp=drive_link
+
+![dice_roller](https://github.com/a-faria/Dice_Roller/assets/122120022/5c313f1e-2927-4b74-8f50-e9834d3818f2)
+
 # Thinkercad 
 ![image](https://github.com/a-faria/Dice_Roller/assets/122120022/f8e87efa-a9f5-410c-bba2-409c28692764)
 
